@@ -1,0 +1,44 @@
+body {
+    font: normal 16px system-ui, -apple-sysem, Arial, Verdana, serif;
+}
+
+@media screen and (max-width: 800px) {
+    img {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+a {
+color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+img {
+    height: auto;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+.menu {
+    color: white;
+	background: black;
+	padding: 18px;
+}
+
+a {
+	color: #d7dce6;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
